@@ -1,0 +1,23 @@
+{
+  "start_time": 1778054920.9253721,
+  "steps": [
+    {
+      "step": "ingest",
+      "status": "success",
+      "duration_sec": 3.74
+    },
+    {
+      "step": "quality",
+      "status": "success",
+      "duration_sec": 5.44
+    },
+    {
+      "step": "features",
+      "status": "success",
+      "duration_sec": 9.16
+    }
+  ],
+  "pipeline_status": "success",
+  "end_time": 1778054939.2712872,
+  "total_duration_sec": 18.35
+}

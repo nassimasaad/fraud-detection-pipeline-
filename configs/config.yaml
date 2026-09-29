@@ -1,0 +1,21 @@
+paths:
+  bronze_csv: data/bronze/transactions.csv
+  silver_raw_parquet: data/silver/transactions_raw.parquet
+  silver_clean_parquet: data/silver/transactions_clean.parquet
+  gold_transactions: data/gold/transactions_gold.parquet
+  gold_customers: data/gold/customers_gold.parquet
+  reports_dir: reports
+  logs_dir: logs
+
+quality:
+  balance_tolerance: 1e-6
+  drop_amount_leq_0: true
+  drop_duplicates: true
+
+features:
+  large_amount_p95: 0.95
+  large_amount_p99: 0.99
+
+logging:
+  level: INFO
+  file_name: pipeline.log

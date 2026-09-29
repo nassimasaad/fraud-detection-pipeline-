@@ -1,0 +1,12 @@
+{
+  "before_rows": 1048575,
+  "after_rows": 1048575,
+  "missing_values_total": 0,
+  "duplicates": 0,
+  "invalid_amount_leq_0": 0,
+  "balance_incoherence_orig_count": 833596,
+  "balance_incoherence_dest_count": 801560,
+  "fraud_count": 1142,
+  "flagged_fraud_count": 0,
+  "tolerance": 1e-06
+}

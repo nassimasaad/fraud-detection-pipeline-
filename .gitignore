@@ -1,0 +1,26 @@
+__pycache__/
+*.pyc
+
+# Data
+data/
+
+# Airflow
+airflow/logs/
+
+# Environment
+.env
+venv/
+.venv/
+
+# Office temp files
+~$*
+*.tmp
+
+# MLflow
+mlruns/
+
+# Python
+.ipynb_checkpoints/
+
+logs/
+airflow/config/airflow.cfg
