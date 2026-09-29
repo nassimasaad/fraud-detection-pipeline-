@@ -24,3 +24,6 @@ mlruns/
 
 logs/
 airflow/config/airflow.cfg
+
+*.docx
+data-1
