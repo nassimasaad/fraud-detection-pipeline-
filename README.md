@@ -16,12 +16,12 @@ Power BI
 
 ## Airflow Orchestration
 
-images/airflow_dag.png
+Airflow_dag.png
 
 ## Power BI Dashboard
 
-images/powerbi_dashboard.png
+Powerbi_dashboard.png
 
 ## Fraud Analysis
 
-images/fraud_analysis.png
+Fraud_analysis.png
