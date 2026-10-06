@@ -25,3 +25,5 @@ Powerbi_dashboard.png
 ## Fraud Analysis
 
 Fraud_analysis.png
+
+CI/CD test
